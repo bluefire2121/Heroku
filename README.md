@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create React Express App
 
 ## About This Boilerplate
@@ -40,3 +41,8 @@ yarn build
 3. Push to Heroku
 
 If all previous steps were followed correctly, your application should be deployed to Heroku!
+=======
+# Heroku
+Heroku example deployment
+Let's do this!
+>>>>>>> a798a0e25b722a5b8a5fd3e66b41a7022589631e
